@@ -39,4 +39,4 @@ if current_language == "pt_BR":
 elif current_language == "it_IT":
     msg = "Ciao, Mundo!"
  
-print("Ola,  Mundo!".upper()) # .upper() usado para deixar as letras de uma string maiúscula
+print("Ola,  Mundo!".upper()) # .upper() usado para deixar as letras de uma string maiúscula #horas
